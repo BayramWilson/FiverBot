@@ -1,0 +1,1 @@
+python-telegram-bot==21.0  # Updated to a stable version that supports async/await syntax. 
